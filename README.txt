@@ -1,16 +1,8 @@
 ========================
-django-smallmonitor-project
+django-small-monitor-project
 ========================
 
-A project template for Django 1.8.2
 
-To use this project follow these steps:
-
-#. Install Django
-#. Create the new project using the django-two-scoops template
-#. Install additional dependencies
-#. Install static file dependencies
-#. Run server
 Installing Django
 ============================
 
